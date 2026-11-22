@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.exe
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.deps.json
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.runtimeconfig.json
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.dll
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net10.0\CalculadoraDesconto.App.pdb
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.sourcelink.json
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.dll
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\refint\CalculadoraDesconto.App.dll
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.pdb
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\CalculadoraDesconto.App.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Luiz_Felipe\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net10.0\ref\CalculadoraDesconto.App.dll
